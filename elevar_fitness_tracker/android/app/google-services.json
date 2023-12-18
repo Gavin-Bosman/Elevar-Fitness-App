@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656529199031",
+    "project_id": "elevar-9f8b3",
+    "storage_bucket": "elevar-9f8b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656529199031:android:1aeeac758699564b46e232",
+        "android_client_info": {
+          "package_name": "com.example.elevar_fitness_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYURen2KyS4ylJQG7bP83ipbKkQ7X3wAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
